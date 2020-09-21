@@ -1,4 +1,4 @@
-image: jelaniwoods/base-ruby
+image: jelaniwoods/bamp-ruby
 
 ports:
   - port: 3000
